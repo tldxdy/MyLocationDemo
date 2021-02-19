@@ -7,9 +7,10 @@ implementation 'com.github.tldxdy:MyLocationDemo:1.0-tool'
 implementation 'com.amap.api:location:5.2.0'
 
 在application标签中加入：
-"<meta-data android:name="com.amap.api.v2.apikey" android:value="key">//开发者申请的key
-
-</meta-data>"
+<div class="md-demo-code-wrapper"><div class="md-demo-code-header"><a href="javascript:void(0);" class="active ">Java</a></div><div class="md-demo-code-content"><div class="md-demo-code-content-item active"><pre><code class="java hljs">&lt;meta-data android:name=<span class="hljs-string">"com.amap.api.v2.apikey"</span> android:value=<span class="hljs-string">"key"</span>&gt;<span class="hljs-comment">//开发者申请的key       </span>
+            
+&lt;/meta-data&gt;
+</code></pre></div></div></div>
 
 
 使用方法：
