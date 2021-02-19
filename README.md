@@ -1,4 +1,7 @@
 # MyLocationDemo
+主要封装用途地图定位工具，百度高德共同使用，高德需要自行申请key
+
+
 地图工具类
 引入：
 implementation 'com.github.tldxdy:MyLocationDemo:1.0-tool'
